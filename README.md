@@ -13,7 +13,7 @@ In foreign countries, Windows, Mac, and Linux are used in various ways.
 The US Digital Guardian and European CoSoSys are leading the global media control security S/W market, with a focus on global security company Symantec.
 Eagleye is the only company in Korea to compete in the domestic market with products of foreign competitors.
 Domestic security S/W developers, excluding SAFEZONE, develop technologies dependent only on the MS operating system, so there is a wide gap in security S/W development technologies supporting multi-OS (Linux) platforms.
-The above figure is a development architecture to use to support Multi-OS Platform in SAFEZONE.
+The above figure is a development architecture to use to support Multi-OS Platform in Eagleye.
 
 # Privacy configuration for open OS (driver, firmware and embedded S/W development)
 
